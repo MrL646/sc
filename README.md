@@ -2,9 +2,9 @@
 PERSONAL USE ONLY!  
 
 Functions:
-[Scratch-gui](gui/)
-[Scratch to HTML](htmlifier/)
-[TurboWarp](turbowarp/)
+[Scratch-gui](gui/)  
+[Scratch to HTML](htmlifier/)  
+[TurboWarp](turbowarp/)  
 
 Credits:
 Scratch by [Team Scratch]  
