@@ -1,4 +1,4 @@
-# scratch-pages
+# Scratch-Pages
 PERSONAL USE ONLY!  
 Scratch by [Team Scratch]  
 scratch-gui modified by [SheepTester](https://github.com/SheepTester)  
