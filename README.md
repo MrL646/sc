@@ -9,7 +9,7 @@ Functions:
 TurboWarp is a tool that can convert Scratch projects into html, but more better, more user-friendly.  
 
 Credits:
-Scratch by [Team Scratch]  
+Scratch by [Scratch](https://github.com/LLK)  
 scratch-gui modified by [SheepTester](https://github.com/SheepTester)  
 HTMLifier by [SheepTester](https://github.com/SheepTester)  
 TurboWarp by [TurboWarp](https://github.com/TurboWarp) [(GarboMuffin)](https://github.com/GarboMuffin)
