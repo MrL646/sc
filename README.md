@@ -6,7 +6,7 @@
 [Scratch 16:9](gui/16-9/index.html)  
 [Scratch转HTML](htmlifier/)  
 [TurboWarp](turbowarp/)  
-TurboWarp是一个能将**Scratch3.0**项目转为**HTML文件**的工具，但功能**更多，对用户**更友好**。  
+TurboWarp是一个能将**Scratch3.0**项目转为**HTML文件**的工具，但功能**更多**，对用户**更友好**。  
 
 ### Thanks to:
 Scratch by [Scratch](https://github.com/LLK)  
