@@ -2,6 +2,7 @@
 PERSONAL USE ONLY!  
 
 ### Projects:
+[beta](proj/beta/)  
 
 ### Binary files:
 [beta.sb3](bin/beta.sb3)  
