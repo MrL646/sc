@@ -3,10 +3,12 @@ PERSONAL USE ONLY!
 
 ### Projects:
 [beta](proj/beta/)  
+[plus](proj/plus)
 
 ### Binary files:
 [beta.sb3](bin/beta.sb3)  
 [beta-ultra.sb3](bin/beta-ultra.sb3)  
+[plus.sb3](bin/plus.sb3)
 
 ### Functions:  
 [Scratch](gui/)  
