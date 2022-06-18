@@ -1,6 +1,6 @@
 # Scratch-Pages
 
-## [Back to main page](../index_en.html)  
+## [Back to the main page](../index_en.html)  
 
 # PERSONAL USE ONLY!  
 
