@@ -1,6 +1,8 @@
 # Scratch-Pages
 仅供个人使用!  
 
+[回到主页](../index_zh.html)  
+
 ### 项目：
 [beta](proj/beta/)  
 [plus](proj/plus/)
